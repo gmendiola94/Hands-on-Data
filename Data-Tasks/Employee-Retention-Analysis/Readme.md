@@ -1,0 +1,2 @@
+# Context ✏️
+"As part of a project, you have been asked to investigate how the client can improve retention of its high performing employees". The client is also interested in being able to predict exactly which of its employees is most at risk of leaving.
