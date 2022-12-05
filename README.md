@@ -3,7 +3,7 @@
 This repo contains some of the latest data tasks and deliverables I've done or been involved in the past few years outside an academic setting.
 
 
-### Skills involved 🏅
+### Toolset 🏅
 
 * SQL (Data Preparation, Modelling)
 * Tableau (Data Visualization)
