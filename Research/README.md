@@ -1,7 +1,7 @@
 # Research (2020-2021) 🔎📈
 
 ## **_"Forecasting the value effect of seasoned equity offerings and stock splits announcements"_**
-### _International Journal of Forecasting (Submission)_ </br>
+### _International Journal of Forecasting (Submission stage)_ </br>
 Co-author: Konstantinos Nikolopoulos
 
 
