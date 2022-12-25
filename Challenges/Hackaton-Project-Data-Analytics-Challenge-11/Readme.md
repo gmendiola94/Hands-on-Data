@@ -1,6 +1,4 @@
-# Project Data Analytics Challenge 11 (2021) 💪
-## <ins>Challenge 11B: Cost Prediction Model</ins>
-</br>
+# Challenge 11B: Cost Prediction Model (2021) 💪
 
 ## Context ✏️
 ### **Can we develop an accurate and robust machine learning model to improve cost forecasting on construction projects?**
