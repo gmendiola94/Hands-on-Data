@@ -10,4 +10,4 @@ Advent of Code is an Advent calendar of small programming puzzles for a variety 
 
 ## Instructions 
 
-* Scripts are organised by calendar day and link to problem instructions are commented on each file. 
+* Scripts are organised by calendar day and the links to problem instructions are commented on each notebook. 
