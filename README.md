@@ -1,4 +1,5 @@
-# Hands-on-Data 📊 😃
+# Hands-on-Data 📊 
+## Welcome to my portfolio! 😃
 
 This repo contains some of my work and other fun activities around data:
 * [Data analysis decks](/Data-Tasks/) : Case studies

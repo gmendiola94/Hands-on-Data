@@ -23,11 +23,12 @@ capitalised through effective decision making in the investment spectrum. Finall
 effects of the COVID-19 pandemic were also analysed for SEOs in the NYSE, and
 significant differences were discovered in March and April 2020.
 
+### Research Design
+![IMAGE ALT](/Research/img/ResearchDesign.png)
 
+## Skills 🛠️
 
-### Skills 🛠️
-
-* Capital IQ/Thomson Reuters platforms to get source equity data and events 
+* Capital IQ/Thomson Reuters platforms to get equity and event source data 
 * MS SQL Server to preprocess and shape data
 * Power BI to display high-level Exchange observations and compare their returns (financial model outputs)
 * Python to implement machine learning and web scraping algorithms
