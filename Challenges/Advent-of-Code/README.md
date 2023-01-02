@@ -4,8 +4,14 @@
 
 ## Language 
 
-* Python 3.8 
+Created using >=Python 3.8
 
 ## Instructions 
 
-* Scripts are organised by calendar day and the links to problem instructions are commented on each notebook. 
+Recommended to use Virtual Environment (venv, pyenv, conda)
+
+Install all required dependencies:
+```
+pip install -r requirements.txt
+```
+Scripts are organised by calendar day and the links to problem instructions are commented on each notebook. 
