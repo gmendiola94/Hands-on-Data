@@ -1,4 +1,6 @@
 # Advent of Code 2022 🎅
+![Python3.8](https://img.shields.io/badge/Python-3.8-blue)
+
 ## About
 [Advent of Code](https://adventofcode.com/2022) is an Advent calendar of small programming puzzles for a variety of skill levels that can be solved in any programming language.
 
